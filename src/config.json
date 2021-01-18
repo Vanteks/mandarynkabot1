@@ -1,0 +1,6 @@
+{
+"token": "ODAwNzIyNzIwOTQxMjc3MTg1.YAWRJQ.m-JApiRgRrkZjSJW5WXxE9RG6V4",
+"prefix":"!",
+"mongoPath":"mongodb+srv://Pablo:samochud@cluster0.nxhaa.mongodb.net/x?retryWrites=true&w=majority",
+"redisPath":""
+}
